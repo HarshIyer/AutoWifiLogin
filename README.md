@@ -7,6 +7,6 @@ Automatic Wifi Logger for IIIT Kottayam Network
 4. Click on load unpacked and then choose the folder where you saved the repo.
 5. Add as an extension.
 <br>
-Created by
-Harsh Iyer 2023BCS0199
+<b>Created by</b>
+Harsh Iyer 
    
