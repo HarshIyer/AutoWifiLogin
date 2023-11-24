@@ -1,0 +1,10 @@
+{
+    "name": "Wifi Logger",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "content_scripts": [{
+            "matches": ["http://172.16.111.1:1000/*"],
+            "js": ["jquery.js","logger.js"]
+        }]
+}
